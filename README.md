@@ -5,6 +5,7 @@
 This project implements a binary tree-based message encoding and decoding system. The MsgTree class constructs a tree from an encoding string and is used to decode messages. The project reads an encoding structure and a binary message from a file and reconstructs the original message.
 
 ## Project Structure
+
 ```
 .
 ├── README.md
@@ -23,6 +24,7 @@ This project implements a binary tree-based message encoding and decoding system
 ```
 
 ## How to Run
+
 1. Clone Project:
 ```bash
 git clone <repository_url> 
@@ -71,3 +73,7 @@ Decodes an encoded message and prints the output.
 Ensure test files are placed in the tests directory.
 
 The program assumes valid input format.
+
+## Notice
+
+This project was created as part of a university course assignment and is not intended for reuse or distribution.
